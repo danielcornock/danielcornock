@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a senior front-end developer working [@crowdcomms](https://github.com/crowdcomms).
+I'm currently the front end & product lead at [@crowdcomms](https://github.com/crowdcomms).
 
 I specialise in Angular and TypeScript, with a keen interest in front end architecture and unit testing.
 
